@@ -9,11 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@fontsource/material-icons": "^4.5.4",
+    "@fontsource/material-icons-outlined": "^4.5.4",
+    "@fontsource/material-icons-rounded": "^4.5.4",
+    "@fontsource/material-icons-sharp": "^4.5.4",
+    "@fontsource/material-icons-two-tone": "^4.5.4",
+    "@fontsource/roboto": "^4.5.5",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.3",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
+    "@types/node": "^17.0.23",
     "@types/react": "17.0.43",
     "eslint": "8.12.0",
     "eslint-config-next": "12.1.4",
